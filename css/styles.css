@@ -162,19 +162,6 @@ button {
 }
 /* #endregion team */
 
-/* #region footer */
-.footer {
-  background-color: #2e2f42;
-}
-.footer-text {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #f4f4fd;
-}
-/* #endregion footer */
-
 /* #region Our Portfoli */
 .our-portfolio {
   background-color: #fff;
@@ -210,3 +197,16 @@ button {
 }
 
 /* #endregion Our Portfolio */
+
+/* #region footer */
+.footer {
+  background-color: #2e2f42;
+}
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+/* #endregion footer */
